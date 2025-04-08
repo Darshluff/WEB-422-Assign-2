@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Cozy Apartment in Downtown",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "123 Main Street, Toronto, ON"
+    },
+    "summary": "A beautiful apartment located in the heart of the city.",
+    "price": 120,
+    "beds": 2,
+    "bed_type": "Queen",
+    "neighbourhood_overview": "Close to public transport and restaurants.",
+    "picture": "https://placehold.co/600x400?text=Apartment"
+  },
+  {
+    "name": "Luxury Condo with City View",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "456 King Street, Toronto, ON"
+    },
+    "summary": "A high-end condo with a great city skyline view.",
+    "price": 200,
+    "beds": 3,
+    "bed_type": "King",
+    "neighbourhood_overview": "Near entertainment district and shopping malls.",
+    "picture": "https://placehold.co/600x400?text=Luxury+Condo"
+  },
+  {
+    "name": "Private Room in Cozy House",
+    "room_type": "Private room",
+    "address": {
+      "street": "789 Queen Street, Toronto, ON"
+    },
+    "summary": "A quiet and comfortable room in a shared home.",
+    "price": 50,
+    "beds": 1,
+    "bed_type": "Single",
+    "neighbourhood_overview": "Peaceful residential area with parks nearby.",
+    "picture": "https://placehold.co/600x400?text=Cozy+Room"
+  },
+  {
+    "name": "Beachside Villa",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "101 Beach Road, Vancouver, BC"
+    },
+    "summary": "A luxurious beachfront villa with stunning views.",
+    "price": 500,
+    "beds": 4,
+    "bed_type": "King",
+    "neighbourhood_overview": "Steps away from the ocean, great for relaxing.",
+    "picture": "https://placehold.co/600x400?text=Beach+Villa"
+  },
+  {
+    "name": "Mountain Cabin Retreat",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "456 Forest Lane, Banff, AB"
+    },
+    "summary": "A cozy log cabin surrounded by nature.",
+    "price": 150,
+    "beds": 2,
+    "bed_type": "Queen",
+    "neighbourhood_overview": "Great hiking trails and wildlife nearby.",
+    "picture": "https://placehold.co/600x400?text=Cabin"
+  },
+  {
+    "name": "Modern Loft in Downtown",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "321 Bay Street, Toronto, ON"
+    },
+    "summary": "Spacious and stylish loft in a prime location.",
+    "price": 180,
+    "beds": 2,
+    "bed_type": "Queen",
+    "neighbourhood_overview": "Walking distance to bars and museums.",
+    "picture": "https://placehold.co/600x400?text=Loft"
+  },
+  {
+    "name": "Rustic Farmhouse Escape",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "654 Country Road, Niagara, ON"
+    },
+    "summary": "Experience farm life in this charming country home.",
+    "price": 110,
+    "beds": 3,
+    "bed_type": "Double",
+    "neighbourhood_overview": "Surrounded by vineyards and nature.",
+    "picture": "https://placehold.co/600x400?text=Farmhouse"
+  },
+  {
+    "name": "Budget-Friendly Shared Dorm",
+    "room_type": "Shared room",
+    "address": {
+      "street": "987 College Street, Toronto, ON"
+    },
+    "summary": "A hostel-style dorm for backpackers and students.",
+    "price": 30,
+    "beds": 6,
+    "bed_type": "Bunk",
+    "neighbourhood_overview": "Close to universities and public transport.",
+    "picture": "https://placehold.co/600x400?text=Dorm"
+  },
+  {
+    "name": "Secluded Treehouse Getaway",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "222 Pine Tree Road, Whistler, BC"
+    },
+    "summary": "Stay in a unique treehouse with breathtaking views.",
+    "price": 250,
+    "beds": 2,
+    "bed_type": "Queen",
+    "neighbourhood_overview": "Remote location, perfect for relaxation.",
+    "picture": "https://placehold.co/600x400?text=Treehouse"
+  },
+  {
+    "name": "Luxury Penthouse with Hot Tub",
+    "room_type": "Entire home/apt",
+    "address": {
+      "street": "1000 Skyline Avenue, Montreal, QC"
+    },
+    "summary": "A high-end penthouse with modern amenities.",
+    "price": 600,
+    "beds": 3,
+    "bed_type": "King",
+    "neighbourhood_overview": "Exclusive area with nightlife and fine dining.",
+    "picture": "https://placehold.co/600x400?text=Penthouse"
+  }
+]
