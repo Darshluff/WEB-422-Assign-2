@@ -1,0 +1,4 @@
+/* Hover effect for table rows */
+#listingsTable tr:hover {
+  cursor: pointer;
+}
